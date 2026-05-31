@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+.venv_game/
+venv/
+env/
+
+# Local game state
+savegame.json
+
+# Local previews and temporary exports
+preview_*.png
+*.tmp
+
+# IDE-local settings
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
